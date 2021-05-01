@@ -1,7 +1,10 @@
-# salinopolis
-Estudos em Salinópolis/PA
+# Wave Climate in Salinopolis/PA
 
-Posição da boia de Fortaleza do PNBOIA
-Latitude: 3° 12' 48.96" S
-Longitude: 38° 25' 57" W
+- PNBOIA Metocean buoy in Fortaleza/CE
+Lat: 3° 12' 48.96" S
+Lon: 38° 25' 57" W
 
+- WAVERYS Reanalysis
+- ERA5 Reanalysis
+- DAAT/PLEDS
+- Wave propagation
